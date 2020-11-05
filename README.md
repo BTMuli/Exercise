@@ -8,4 +8,4 @@
 + [懒惰的松雅](https://github.com/BTMuli/Exercise/blob/main/%E6%87%92%E6%83%B0%E7%9A%84%E6%9D%BE%E9%9B%85.md)
 + [莫比乌斯函数](https://github.com/BTMuli/Exercise/blob/main/%E8%8E%AB%E6%AF%94%E4%B9%8C%E6%96%AF%E5%87%BD%E6%95%B0.md)
 + [松雅旅馆的自动门](https://github.com/BTMuli/Exercise/blob/main/%E6%9D%BE%E9%9B%85%E6%97%85%E9%A6%86%E7%9A%84%E8%87%AA%E5%8A%A8%E9%97%A8.md)
-
++ [除法的精确计算](https://github.com/BTMuli/Exercise/blob/main/%E9%99%A4%E6%B3%95%E7%9A%84%E7%B2%BE%E7%A1%AE%E8%AE%A1%E7%AE%97.md)
