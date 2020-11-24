@@ -12,3 +12,9 @@
 + [口算练习题](https://github.com/BTMuli/Exercise/blob/main/%E5%8F%A3%E7%AE%97%E7%BB%83%E4%B9%A0%E9%A2%98.md)
 + [松雅的旅馆](https://github.com/BTMuli/Exercise/blob/main/%E6%9D%BE%E9%9B%85%E7%9A%84%E6%97%85%E9%A6%86.md)
 + [飞机起飞时间安排](https://github.com/BTMuli/Exercise/blob/main/%E9%A3%9E%E6%9C%BA%E8%B5%B7%E9%A3%9E%E6%97%B6%E9%97%B4%E5%AE%89%E6%8E%92.md)
++ 基于神经网络的垃圾邮件分类
++ 岁月留痕
++ 松雅的花园
++ 特定字符打头的字符串
++ 猴导师
++ 阿迪看医生
